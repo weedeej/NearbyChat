@@ -1,4 +1,5 @@
 name: NearbyChat
+author: weedeej
 version: '${version}'
 main: dev.weedeej.nearbychat.NearbyChat
 api-version: '1.20'
